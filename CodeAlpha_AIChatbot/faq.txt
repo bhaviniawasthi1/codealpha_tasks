@@ -1,0 +1,8 @@
+package CodeAlpha_AIChatbot;
+
+hello=Hi! How can I help you?
+hi=Hello there!
+how are you=I am just a bot, but I'm doing great!
+what is your name=I am your AI Chatbot.
+bye=Goodbye! Have a nice day!
+what is java=Java is a programming language used for building applications.
